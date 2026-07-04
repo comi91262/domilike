@@ -23,7 +23,7 @@
         "laravel-vite-plugin": "^0.7.3",
         "lodash": "^4.17.5",
         "popper.js": "^1.12",
-        "postcss": "^8.4.18",
+        "postcss": "^8.5.10",
         "pusher-js": "^8.0.1",
         "react": "^18.2.0",
         "react-dom": "^18.2.0",
